@@ -1,4 +1,4 @@
-# Product Analysis: Ribbon App Launch Performance
+# Ribbon Post Launch Performance: A Journey into Product Analytics
 
 <img src="https://github.com/Ebuka456/Ribbon-App-Performance/blob/main/Images/istockphoto-1464312016-612x612.jpg" alt="Alt text" style= "width: 900px; height: 500px"/>
 
