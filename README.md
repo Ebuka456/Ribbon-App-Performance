@@ -35,7 +35,7 @@ These metrics are essential to assess user satisfaction and interest. High user 
 3. **Social Activity Metrics**:
 These metrics reflect the vitality of the app's social ecosystem. They help gauge the relevance of content, how often users post on the app or engage with posts, and the potential for viral growth. A vibrant social activity within the app can enhance user retention and attract new users through referrals.
 
-The Exploratory Data analysis was well details in my article [here]() and interect with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNjg5OTYyNGItMWE5My00YjkzLWFjYTEtNTgzMzJiZWZkNDEzIiwidCI6IjUwZDA2MjZhLTcwN2UtNDk2ZC1iOGU1LTIwYjk1NzA5MTYzZSJ9&pageName=ReportSectionfc8bffaddc1ebb3c1151) 
+The Exploratory Data analysis was well details in my article [here](https://medium.com/@okonkwoebuka456/ribbon-post-launch-performance-a-journey-into-product-analytics-42e063f23242) and interect with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNjg5OTYyNGItMWE5My00YjkzLWFjYTEtNTgzMzJiZWZkNDEzIiwidCI6IjUwZDA2MjZhLTcwN2UtNDk2ZC1iOGU1LTIwYjk1NzA5MTYzZSJ9&pageName=ReportSectionfc8bffaddc1ebb3c1151) 
 
 ### But what did I find?
 
